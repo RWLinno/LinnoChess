@@ -1,0 +1,40 @@
+#,id,name,x,y
+pieces,0,white_rook,1,1
+pieces,1,white_pawn,1,2
+pieces,2,black_pawn,1,7
+pieces,3,black_rook,1,8
+pieces,4,white_knight,2,1
+pieces,5,white_pawn,2,2
+pieces,6,black_pawn,2,7
+pieces,7,white_bishop,3,1
+pieces,8,white_pawn,3,2
+pieces,9,white_bishop,3,4
+pieces,10,black_knight,3,6
+pieces,11,black_pawn,3,7
+pieces,12,black_bishop,3,8
+pieces,13,white_queen,4,1
+pieces,14,white_pawn,4,2
+pieces,15,black_pawn,4,7
+pieces,16,black_queen,4,8
+pieces,17,white_king,5,1
+pieces,18,white_pawn,5,4
+pieces,19,white_knight,5,5
+pieces,20,black_king,5,8
+pieces,21,white_pawn,6,2
+pieces,22,black_pawn,6,6
+pieces,23,black_bishop,6,8
+pieces,24,white_pawn,7,2
+pieces,25,black_pawn,7,7
+pieces,26,black_knight,7,8
+pieces,27,white_rook,8,1
+pieces,28,white_pawn,8,2
+pieces,29,black_pawn,8,7
+pieces,30,black_rook,8,8
+turn,31,7
+operation,32,white_pawn,52,54,
+operation,33,black_pawn,57,55,
+operation,34,white_knight,71,63,
+operation,35,black_knight,28,36,
+operation,36,white_bishop,61,34,
+operation,37,white_knight,63,55,black_pawn
+operation,38,black_pawn,67,66,
