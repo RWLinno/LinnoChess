@@ -4,6 +4,8 @@
 
 如果有更新建议请私信@RWLinno
 
+项目地址：https://github.com/RWLinno/LinnoChess
+
 ### 目前效果
 
 ![demo](Chess_Demo.gif)
